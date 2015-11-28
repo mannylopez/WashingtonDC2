@@ -3899,3 +3899,5 @@ map.on('style.load', function () {
         }
     });
 });
+
+map.dragRotate.disable();
